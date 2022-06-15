@@ -1,1 +1,0 @@
-import{_ as a,d as e,u as n,C as s,o as t,c as r}from"./index.cefa9ad1.js";var d=a(e({name:"Index",components:{},setup:()=>(n({title:`${s.base.WEB_NAME}官网`,htmlAttrs:{lang:"en",amp:!0}}),{TITLE:s.WEB_NAME})}),[["render",function(a,e,n,s,d,o){return t(),r("div",null,"index")}]]);export{d as default};

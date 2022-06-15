@@ -1,0 +1,1 @@
+import{_ as e,d as a,u as n,C as s,o as t,c as r}from"./index.2dae4b76.js";var d=e(a({name:"Index",components:{},setup:()=>(n({title:`${s.base.WEB_NAME}官网`,htmlAttrs:{lang:"en",amp:!0}}),{TITLE:s.WEB_NAME})}),[["render",function(e,a,n,s,d,o){return t(),r("div",null,"index")}]]);export{d as default};
